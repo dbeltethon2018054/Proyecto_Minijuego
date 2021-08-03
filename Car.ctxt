@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ This\ is\ a\ white\ blood\ cell.\ This\ kind\ of\ cell\ has\ the\ job\ to\ catch\ \r\n\ bacteria\ and\ remove\ them\ from\ the\ blood.\r\n\ https\://upload.wikimedia.org/wikipedia/commons/7/73/Classic_Formula_Ford_Competition_race-car_pic8.JPG\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=void\ checkCollision()
+comment1.text=\ \r\n\ Check\ whether\ we\ are\ touching\ a\ bacterium\ or\ virus.\ Remove\ \r\n\ bacteria.\ Game\ over\ if\ we\ hit\ a\ virus.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\:\ move\ up\ and\ down\ when\ cursor\ keys\ are\ pressed.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+numComments=4

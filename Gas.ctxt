@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Gas
+comment0.text=\r\n\ Bacteria\ fload\ along\ in\ the\ bloodstream.\ They\ are\ bad.\ Best\ to\ destroy\r\n\ them\ if\ you\ can.\r\n\ https\://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GasolineContainer.JPG/1200px-GasolineContainer.JPG\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Gas()
+comment1.text=\r\n\ Constructor.\ Nothing\ to\ do\ so\ far.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Float\ along\ the\ bloodstream,\ slowly\ rotating.\r\n
+numComments=3

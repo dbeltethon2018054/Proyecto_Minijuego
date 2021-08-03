@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tire
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RedCell\ here.\r\n\ https\://upload.wikimedia.org/wikipedia/commons/f/f2/Front_tire_and_18_inch_wheel_of_2004-2007_NISSAN_FUGA.jpg\r\n\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tire()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ RedCell\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
